@@ -27,5 +27,5 @@ AI applications, software engineering, cloud security, RAG systems, data-driven 
 ## Links
 
 - GitHub: https://github.com/suchirrrr
-- LinkedIn: [add your LinkedIn link here](https://www.linkedin.com/in/suchir-ganesh-jaiganesh-95b056291/)
+- LinkedIn: [View my Linkedin](https://www.linkedin.com/in/suchir-ganesh-jaiganesh-95b056291/)
 - Portfolio: coming soon
